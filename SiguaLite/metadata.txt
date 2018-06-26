@@ -1,0 +1,39 @@
+# This file contains metadata for your plugin. Since 
+# version 2.0 of QGIS this is the proper way to supply 
+# information about a plugin. The old method of 
+# embedding metadata in __init__.py will 
+# is no longer supported since version 2.0.
+
+# This file should be included when you package your plugin.# Mandatory items:
+
+[general]
+name=Sigua Lite
+qgisMinimumVersion=2.0
+qgisMaximumVersion=2.19
+description=Tool for load building floor from University of Alicante
+version=0.1
+author=Jose Manuel Mira Martinez
+email=josema.mira@gmail.com
+
+about=Small tool to load a floor from University of Alicant building. This plugin can: - make legend based in main attributes field: organitation or land use - add labels with internal room code or popular name - print based on Qgis templates, and automatic select de orientation based in building geometry. This plugin load layers from a local SpatiaLite database. The original plugin (no public) work with PostgreSql/PostGIS and has utilities for search people, output data to CSV, etc. SIGUA is an acronym of Sistema de Informacion Geografica de la Universidad de Alicante). For full information visit https://www.sigua.ua.es
+
+tracker=https://github.com/josemamira/SiguaLitePlugin
+repository=https://github.com/josemamira/SiguaLitePlugin
+# End of mandatory metadata
+
+# Recommended items:
+
+# Uncomment the following line and add your changelog:
+# changelog=
+
+# Tags are comma separated with spaces allowed
+tags=University of Alicante, SIGUA, building manager
+
+homepage=https://github.com/josemamira/SiguaLitePlugin
+category=Plugins
+icon=icon.png
+# experimental flag
+experimental=False
+
+# deprecated flag (applies to the whole plugin, not just a single version)
+deprecated=False
