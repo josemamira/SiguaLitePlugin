@@ -26,6 +26,9 @@ José Manuel Mira Martínez
 Qgis 2.X.
 No tested with Qgis 3.X
 
+### Note
+For security reason the database (65 mb) only has building geometries. Not personal data included
+
 ### How to use
 Very easy. Follow this steps:
 1. Select building floor from combo form, and clic in "OK" button
