@@ -2,7 +2,7 @@
 Plugin para añadir cartografía de los edificios de la Universidad de Alicante
 
 Captura de pantalla:
-![alt text](https://github.com/josemamira/PySigua/raw/master/VisorSigua/doc/captura_sigua.png "Captura")
+![alt text](  https://github.com/josemamira/SiguaLitePlugin/raw/master/SiguaLite/doc/screenshot.png "Captura")
 ### Descripción
 Aplicación standalone para ver e imprimir los edificios y plantas de la Universidad de Alicante  utilizando simbología avanzada. Se trata de una aplicación más de SIGUA [www.sigua.ua.es]
 
