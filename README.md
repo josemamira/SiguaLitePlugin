@@ -2,7 +2,7 @@
 This Qgis plugin provide functionality to load vector layer building from University of Alicante (UA)
 
 Screenshot:
-![alt text](https://github.com/josemamira/PySigua/raw/master/VisorSigua/doc/captura_sigua.png "Captura")
+![alt text](  https://github.com/josemamira/SiguaLitePlugin/raw/master/SiguaLite/doc/screenshot.png "Captura")
 ### Futher information
 SIGUA is an Geographic Information System to management spaces in University of Alicante. Website: SIGUA [www.sigua.ua.es]
 
