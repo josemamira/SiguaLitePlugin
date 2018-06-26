@@ -27,7 +27,7 @@ Qgis 2.X.
 No tested with Qgis 3.X
 
 ### How to use
-Very easy. Get this steps:
+Very easy. Follow this steps:
 1. Select building floor from combo form, and clic in "OK" button
 2. Change legend using land use or staff organitation.
 3. (Optional) Select a type of label: room id or local name denomination. 
